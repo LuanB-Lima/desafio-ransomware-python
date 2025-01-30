@@ -14,3 +14,6 @@ Se ao executar o código de o erro "ModuloNotFoundError: No modulo named 'pyaes'
 
 ### Código de Descriptografia
 ![código descriptografia](https://github.com/user-attachments/assets/475dba59-8aa3-4452-b8b7-9b7ffe42a9ad)
+
+### Adicional
+- Arquivo .txt para testes
