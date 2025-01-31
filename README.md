@@ -6,7 +6,7 @@ O objetivo é criar um Ransomware em Python.
 - Linguagem Python
 
 ### Observação
-Se ao executar o código de o erro <b> "ModuloNotFoundError: No modulo named 'pyaes'"</b> significa que você precisa instalar a biblioteca pyaes. Utilize o comando:
+Se ao executar o código apareça o erro <b> "ModuloNotFoundError: No modulo named 'pyaes'"</b> significa que você precisa instalar a biblioteca pyaes. Utilize o comando:
 ```sudo pip install pyaes```
 
 ### Código de Criptografia
